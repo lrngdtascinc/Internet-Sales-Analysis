@@ -6,4 +6,10 @@ A sales manager is looking to improve the quality of the internet sales reports 
 What the sales manager is looking for is a dashboard where he can see how much of what product has been sold, over the 
 period of the last two years, and to which clients in order to track how well his staff is adhering to the budget set in place.
 
-## Deliverables 
+## Deliverable 1): Restored and Cleaned Databases
+
+
+## Deliverable 2): Automated SQL Server to AWS Redfin ETL Pipeline
+
+
+## Deliverable 3): Automated Power BI Report
