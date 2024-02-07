@@ -11,6 +11,10 @@ In the first deliverable I downloaded and restored the Adventure Works 2022 Data
 ![SQL Server DW](https://github.com/lrngdtascinc/Internet-Sales-Analysis/blob/6226ffe45e33421e54359cea659df644ec1eab55/Creating%20SQL%20Server%20User.png)
 
 ## Deliverable 2): SQL Server to PgAdmin ETL Pipeline
+In the second deliverable I utilized Python along with the pandas, pyodbc, psycopg2, and sqlalchemy libraries in order to create an etl pipeline to extract the tables necessary from SQL Server, transform the tables utilizing pandas with embedded SQL queries, and loading the transformed tables into Pgadmin to be used in my Power BI report.
+![Jupyter Notebook]()
+![Pgadmin query History]()
+
 
 
 ## Deliverable 3): Power BI Internet Sales Report
