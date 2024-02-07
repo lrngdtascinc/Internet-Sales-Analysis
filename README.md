@@ -9,7 +9,7 @@ period of 2020 to 2022, and to which clients in order to track how well his staf
 ## Deliverable 1): Restored Database & Cleaned Tables
 
 
-## Deliverable 2): Automated SQL Server to AWS Redfin ETL Pipeline
+## Deliverable 2): SQL Server to PgAdmin ETL Pipeline
 
 
-## Deliverable 3): Automated Power BI Report
+## Deliverable 3): Power BI Internet Sales Report
