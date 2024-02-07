@@ -8,7 +8,7 @@ period of 2020 to 2022, and to which clients in order to track how well his staf
 
 ## Deliverable 1): Restored Database & Cleaned Tables
 In the first deliverable I downloaded and restored the Adventure Works 2022 Data warehouse and created a user under the creative name etl to be able to connect to the data warehouse and run SQL queries in order to extract the data needed to build a Power BI sales report.
-![SQL Server DW]()
+![SQL Server DW](https://github.com/lrngdtascinc/Internet-Sales-Analysis/blob/6226ffe45e33421e54359cea659df644ec1eab55/Creating%20SQL%20Server%20User.png)
 
 ## Deliverable 2): SQL Server to PgAdmin ETL Pipeline
 
