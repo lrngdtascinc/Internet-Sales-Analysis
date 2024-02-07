@@ -13,7 +13,7 @@ In the first deliverable I downloaded and restored the Adventure Works 2022 Data
 ## Deliverable 2): SQL Server to PgAdmin ETL Pipeline
 In the second deliverable I utilized Python along with the pandas, pyodbc, psycopg2, and sqlalchemy libraries in order to create an etl pipeline to extract the tables necessary from SQL Server, transform the tables utilizing pandas with embedded SQL queries, and loading the transformed tables into Pgadmin to be used in my Power BI report.
 ![Jupyter Notebook](https://github.com/lrngdtascinc/Internet-Sales-Analysis/blob/dbf739fbd80324a71abd28329fad9b950743de61/Pandas%20Customer%20Dataframe.png)
-![Pgadmin query History]()
+![Pgadmin query History](https://github.com/lrngdtascinc/Internet-Sales-Analysis/blob/534226a926a2be0d05a132bb991be210302ae2d9/PgAdmin%20Queries.png)
 
 
 
