@@ -18,3 +18,5 @@ In the second deliverable I utilized Python along with the pandas, pyodbc, psyco
 
 
 ## Deliverable 3): Power BI Internet Sales Report
+In the third deliverable I curated a Power BI dashboard to showcase the companies internet sales metrics, important customer details, and important product details. This will provide the sales manager a clean and easy to follow tool, that is capable of showcasing how well his team is staying on budget, which customers are contributing the most to internet sales, and what products are responsible for contributing to profits.
+![Internet Sales Dash]()
